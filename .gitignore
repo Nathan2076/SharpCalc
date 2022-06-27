@@ -1,0 +1,9 @@
+# Visual Studio Code
+.vscode/
+
+# .NET build results
+bin/
+obj/
+
+# CMake build results
+build/

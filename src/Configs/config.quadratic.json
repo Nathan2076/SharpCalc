@@ -1,0 +1,9 @@
+{
+  "sbs": {
+    "enabled": true,
+    "discriminant": {
+      "separated": false,
+      "symbol": "Δ"
+    }
+  }
+}
